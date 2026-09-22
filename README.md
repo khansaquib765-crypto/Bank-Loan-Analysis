@@ -104,7 +104,7 @@ Bank wants to answer:
 4.  Use Filters on Risk_Category, Loan_Type to explore
 
 ## 📸 Dashboard
-![Dashboard](Dashboard1.png)
+<img src="dashboard1.png" width="100%"><br><br>
 
 ---
 **Created By:** [Khan Saquib Alam] | **Domain:** Banking Analytics | **Tool:** Advanced Excel
