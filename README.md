@@ -105,6 +105,7 @@ Bank wants to answer:
 
 ## 📸 Dashboard
 <img src="Dashboard 1.png" width="100%"><br><br>
+<img src="Dashboard 2.png" width="100%"><br><br>
 
 ---
 **Created By:** [Khan Saquib Alam] | **Domain:** Banking Analytics | **Tool:** Advanced Excel
